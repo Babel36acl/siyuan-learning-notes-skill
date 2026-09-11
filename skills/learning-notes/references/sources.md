@@ -20,6 +20,7 @@
 | [思源原生格式](https://github.com/siyuan-note/siyuan/blob/master/docs/SY-FORMAT.md)、[Kernel API](https://github.com/siyuan-note/siyuan/blob/master/docs/API.md) | 验证块引用、超级块、媒体结构和块 API | 把 Kernel API 直接等同 MCP 暴露接口 |
 | [官方 MCP 源码](https://github.com/siyuan-note/siyuan/tree/8641553a1f07374001902d3ce773285db1292b2d/kernel/mcp/tools) | 官方 document/block/ref/asset/database 等实际 schema；HTML 沙箱与服务端路径限制 | 将 master 源码能力宣称为用户在线端点已通过测试 |
 | 用户指定的 [思源用户指南入口](https://siyuannote.com/article/1724525755) 及其标签、关系图、块引用、Markdown 输入页 | 理解各界面工具职责、层级标签和静态/动态锚文本 | 非官方教程不替代当前 MCP 参数；界面输入快捷方式不等于 API 持久语法 |
+| 用户提供的 PID v0.5 与 Siemens LConSMC Winder v0.5 知识库样例 | 整库构建的读者路线、知识地图、分层正文、公式/单位约定、项目映射和现场速查；把总汇文件视为派生产物 | 不迁移固定目录、篇数承诺、手册逐页复制或把压缩包存在当成内容验收 |
 
 AI_Animation 检查版本为 `cc448d43b75d4b53c2e785240777b09823d22a68`，读取 scholar-notes 的 Skill、布局和组件参考，仅提炼方法。上述本地 Skill 名称表示实际检查过的材料，不表示本仓库分发它们；有公开原始仓库的来源已附链接。
 

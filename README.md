@@ -9,6 +9,7 @@
 | 入口 | 解决的问题 |
 | --- | --- |
 | [SKILL.md](skills/learning-notes/SKILL.md) | 从材料中提炼什么，以及怎样写成人能理解的解释 |
+| [整套知识库的构建方法](skills/learning-notes/references/knowledge-base-construction.md) | 怎样从手册或专题资料建立知识地图、学习路线、分层正文、项目映射、速查与压缩包 |
 | [知识库长期维护](skills/learning-notes/references/knowledge-maintenance.md) | 页面变多后如何按生命周期维护、分库、导航、拆分和归档 |
 | [思源知识组织与工具规范](skills/learning-notes/references/siyuan-conventions.md) | 主笔记分工、减少重复、标签、双链、关系图及各种工具的职责 |
 | [两个思源 MCP](skills/learning-notes/references/siyuan-mcp.md) | Sisyphus 与官方 MCP 的能力路由、原生结构写入和读回 |
