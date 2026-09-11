@@ -1,0 +1,4 @@
+interface:
+  display_name: "学习笔记"
+  short_description: "把材料讲成人能理解的学习笔记，综合知识关联，并用思源原生结构清晰排版"
+  default_prompt: "使用 $learning-notes 把这些材料整理成给人看的学习笔记，讲清原理、因果、例子和适用边界，并按理解顺序关联已有知识。"
