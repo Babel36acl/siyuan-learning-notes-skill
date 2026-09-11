@@ -12,6 +12,8 @@
 
 规划分工、减少重复和建立关联时，读[知识组织与工具规范](skills/learning-notes/references/siyuan-conventions.md)。明确每个问题的主笔记，其他页面只保留各自用途所需的解释并链接主笔记。文档树、导航、标签、块引用和关系图各尽其责，不把同一正文复制到多个分区。
 
+知识库进入维护阶段后，按生命周期、更新责任、主要读者和归档方式分库；导航只负责带路，项目页说明具体采用方式，通用原理只维护一份。文档树可以用稳定的 `00`、`01` 前缀排序，但正文标题不手工添加章节编号；决策记录和问题复盘也保持不同职责。
+
 写入前读[MCP 使用参考](skills/learning-notes/references/siyuan-mcp.md)，确认当前工具与目标内容。普通正文和复杂原生块采用适合的操作方式；严格写入使用实际预检返回的要求。读回核对正文与实际使用的标签、引用或原生结构。
 
 图表和排版帮助理解时，读[视觉设计](skills/learning-notes/references/visual-design.md)；需要写法示例时，读[写作示例](skills/learning-notes/references/writing-examples.md)。不为了装饰把正文做成图片或整页 HTML。

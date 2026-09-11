@@ -9,6 +9,7 @@
 | 入口 | 解决的问题 |
 | --- | --- |
 | [SKILL.md](skills/learning-notes/SKILL.md) | 从材料中提炼什么，以及怎样写成人能理解的解释 |
+| [知识库长期维护](skills/learning-notes/references/knowledge-maintenance.md) | 页面变多后如何按生命周期维护、分库、导航、拆分和归档 |
 | [思源知识组织与工具规范](skills/learning-notes/references/siyuan-conventions.md) | 主笔记分工、减少重复、标签、双链、关系图及各种工具的职责 |
 | [两个思源 MCP](skills/learning-notes/references/siyuan-mcp.md) | Sisyphus 与官方 MCP 的能力路由、原生结构写入和读回 |
 | [视觉设计](skills/learning-notes/references/visual-design.md) | 标题、提示、图表、超级块，以及 Obsidian / HTML 设计的适配 |
@@ -18,9 +19,9 @@
 
 ## 安装与使用
 
-下载或克隆本仓库，将 `skills/learning-notes` 整个文件夹复制到所用客户端的 Skill 目录。Codex 可放在 `~/.codex/skills/learning-notes`；使用 `.agents/skills` 的环境可放到该目录。目录已存在时先比较内容并保留原件。
+下载或克隆本仓库，将 `skills/learning-notes` 整个文件夹复制到所用客户端的 Skill 目录。Windows 下 Codex 可放在 `%USERPROFILE%\.codex\skills\learning-notes`；使用 `.agents/skills` 的环境可放到 `%USERPROFILE%\.agents\skills\learning-notes`。目录已存在时先比较内容，再按本仓库同步；不要把仓库根目录的 `AGENTS.md` 当成 Skill 文件复制进去。
 
-如需 `.agent` 副本，可再复制到 `~/.agent/skills/learning-notes`；该副本是否被自动发现取决于客户端配置。不要把备份目录存在等同于 Skill 已加载。
+如需 `.agent` 副本，可再复制到 `%USERPROFILE%\.agent\skills\learning-notes`；该副本是否被自动发现取决于客户端配置。不要把备份目录存在等同于 Skill 已加载。
 
 在支持 Skill 的客户端中调用：
 
